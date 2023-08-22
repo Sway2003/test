@@ -1,3 +1,0 @@
-Name: Swayams Bisoyi
-Skills: HTML, CSS, JS, Next.js
-Email: swayamsbisoyi@gmail.com
